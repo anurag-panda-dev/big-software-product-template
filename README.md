@@ -58,7 +58,7 @@ sandbox/        prototypes (never imported by production code)
 
 ## Using this template
 
-1. **Use this template** on GitHub (or `gh repo create my-project --template <owner>/big-software-product-template`)
+1. **Use this template** on GitHub (or `gh repo create my-project --template anurag-panda-dev/big-software-product-template`)
 2. **Rename** — search-replace the project name; update root `README.md`, `purpose.txt`, `AGENTS.md`
 3. **Replace the example domain** — `categories/` ships with an example domain (8 categories / 27 products from a real project) to show the pattern. Delete it and create your own categories/products, keeping the layout:
    `categories/<category>/<product>/{product.md, routes/, features/<feature>/{ui,logic,data,api,__tests__}}`
