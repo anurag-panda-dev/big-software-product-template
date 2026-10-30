@@ -1,3 +1,5 @@
+> 🌐 **English** · [বাংলা](README.bn.md)
+
 > **Part of a template family** — use alongside
 > [`consumer-hardware-products-template`](https://github.com/anurag-panda-dev/consumer-hardware-products-template) (hardware only) and
 > [`full-stack-consumer-hardware-products-template`](https://github.com/anurag-panda-dev/full-stack-consumer-hardware-products-template) (hardware + software).
