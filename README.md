@@ -1,4 +1,26 @@
-# Big Software Product Template
+> **Part of a template family** — use alongside
+> [`consumer-hardware-products-template`](https://github.com/anurag-panda-dev/consumer-hardware-products-template) (hardware only) and
+> [`full-stack-consumer-hardware-products-template`](https://github.com/anurag-panda-dev/full-stack-consumer-hardware-products-template) (hardware + software).
+
+<h1 align="center">Big Software Product Template</h1>
+
+<p align="center"><b>Every folder explains itself — to humans and to AI agents.</b><br>
+268 <code>purpose.txt</code> maps · lint-enforced import boundaries · ADR/RFC decision discipline</p>
+
+<p align="center">
+  <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue?style=flat-square" alt="MIT License" /></a>
+  <a href="https://github.com/anurag-panda-dev/big-software-product-template/generate"><img src="https://img.shields.io/badge/Use%20this%20template-grey?style=flat-square&logo=github&logoColor=white" alt="Use this template" /></a>
+  <a href="https://github.com/anurag-panda-dev/big-software-product-template"><img src="https://img.shields.io/github/repo-size/anurag-panda-dev/big-software-product-template?style=flat-square" alt="Repo size" /></a>
+</p>
+
+```text
+apps/            deployables — routes, providers, wiring
+categories/      domain verticals ── feature slices {ui, logic, data, api}
+crosscutting/    shared-layer products
+kernel/          design-system · contracts · auth · offline · i18n · entitlements
+platform/        api · payments · notifications · jobs ── never imported from above
+datasets/ content/ business/ legal/ docs/ rfcs/ labs/ infra/ sandbox/
+```
 
 An ecosystem-first monorepo template for building **large, multi-product software systems** — organized by *domain* (what the product IS) rather than by technical kind (apps/packages soup).
 
