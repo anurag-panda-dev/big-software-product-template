@@ -1,0 +1,7 @@
+PURPOSE:
+  Editorial calendars, messaging maps, channel SEO guides — WHAT to publish and WHEN (how to write stays in content/).
+
+SHOULD CONTAIN:
+  - editorial-calendar.md, messaging-map.md, seo-guide.md
+
+SEE: ADR-0001 (docs/decisions/ADR-0001-Repository-Structure.md)

@@ -1,0 +1,7 @@
+PURPOSE:
+  Financial record: transactions, refunds, reconciliation, settlement reports. Append-only mindset.
+
+SHOULD CONTAIN:
+  - models/, reconcile/, reports/
+
+SEE: ADR-0001 (docs/decisions/ADR-0001-Repository-Structure.md)

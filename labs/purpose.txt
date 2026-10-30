@@ -1,0 +1,7 @@
+PURPOSE:
+  Research & experiments that must not destabilize products: Bangla NLP, voice, offline tech. Failures documented too.
+
+SHOULD CONTAIN:
+  - nlp/, voice/, offline/, NOTES.md — findings + go/no-go
+
+SEE: ADR-0001 (docs/decisions/ADR-0001-Repository-Structure.md)

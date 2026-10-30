@@ -1,0 +1,5 @@
+PURPOSE:
+  The 8 verticals — the domain spine of the repo. One folder per category; one folder per product inside it.
+  Feature slices inside products may import kernel/, crosscutting/, and own _category/ — NEVER another category (enforced by lint).
+
+SEE: ADR-0001 (docs/decisions/ADR-0001-Repository-Structure.md)

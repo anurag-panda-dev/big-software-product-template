@@ -1,0 +1,7 @@
+PURPOSE:
+  Category deep-dives 05–12 — the spec source products' product.md files point to.
+
+SHOULD CONTAIN:
+  - 05-...12-Category-*.md (one per category)
+
+SEE: ADR-0001 (docs/decisions/ADR-0001-Repository-Structure.md)

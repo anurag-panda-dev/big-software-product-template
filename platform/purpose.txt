@@ -1,0 +1,7 @@
+PURPOSE:
+  Backend concerns. NOTHING above platform/ imports this — communication is via platform/api/openapi + kernel/contracts (swap-safe, extractable later).
+
+SHOULD CONTAIN:
+  - api/, payments/, notifications/, voice/, search/, jobs/, identity/, database/, observability/
+
+SEE: ADR-0001 (docs/decisions/ADR-0001-Repository-Structure.md)

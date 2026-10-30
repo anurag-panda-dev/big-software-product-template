@@ -1,0 +1,7 @@
+PURPOSE:
+  Internal moderation/CMS dashboard: contribution review queues, content verification, dataset overrides.
+
+SHOULD CONTAIN:
+  - src/app/ (Next.js), review-queue UI, verification flags
+
+SEE: ADR-0001 (docs/decisions/ADR-0001-Repository-Structure.md)

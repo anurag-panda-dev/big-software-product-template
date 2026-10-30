@@ -1,0 +1,7 @@
+PURPOSE:
+  Privacy-first analytics + error tracking glue (Sentry). No PII: scrub email/phone before send; session-id only.
+
+SHOULD CONTAIN:
+  - analytics.ts, sentry.ts, scrub.ts
+
+SEE: ADR-0001 (docs/decisions/ADR-0001-Repository-Structure.md)

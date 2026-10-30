@@ -1,0 +1,7 @@
+PURPOSE:
+  Tailwind preset derived from design tokens — the only way products get brand colors/fonts.
+
+SHOULD CONTAIN:
+  - preset.js, README.md
+
+SEE: ADR-0001 (docs/decisions/ADR-0001-Repository-Structure.md)

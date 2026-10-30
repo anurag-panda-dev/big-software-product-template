@@ -1,0 +1,7 @@
+PURPOSE:
+  Raster exports for web/social — GENERATED from svg/ via scripts/export-png.ps1. Do not hand-edit.
+
+SHOULD CONTAIN:
+  - bongotathya-*.png
+
+SEE: ADR-0001 (docs/decisions/ADR-0001-Repository-Structure.md)

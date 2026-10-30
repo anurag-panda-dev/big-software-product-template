@@ -1,0 +1,7 @@
+PURPOSE:
+  Voice pipeline research: STT/TTS models for Bangla, latency and low-end-device experiments.
+
+SHOULD CONTAIN:
+  - stt-evals/, tts-evals/, latency/
+
+SEE: ADR-0001 (docs/decisions/ADR-0001-Repository-Structure.md)

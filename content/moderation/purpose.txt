@@ -1,0 +1,7 @@
+PURPOSE:
+  UGC policy + queue configs: reviews (pre-moderation), photos (post-moderation), community Q&A, 'info is outdated' reports.
+
+SHOULD CONTAIN:
+  - policy.md, queues/, rules.ts (status: pending/approved/rejected)
+
+SEE: ADR-0001 (docs/decisions/ADR-0001-Repository-Structure.md)

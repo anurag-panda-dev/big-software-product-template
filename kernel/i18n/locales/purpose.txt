@@ -1,0 +1,7 @@
+PURPOSE:
+  Message catalogs — bn is primary (Bangla-first), en secondary. Flat, namespaced keys; validated in CI for missing keys.
+
+SHOULD CONTAIN:
+  - bn.json, en.json, keys/ (namespaces per product)
+
+SEE: ADR-0001 (docs/decisions/ADR-0001-Repository-Structure.md)

@@ -1,0 +1,7 @@
+PURPOSE:
+  One-off and maintenance scripts (retires today's temp/*.mjs and *.ps1). Executable, never imported by app code.
+
+SHOULD CONTAIN:
+  - *.mjs, *.ps1, README.md — what each script does and when to run it
+
+SEE: ADR-0001 (docs/decisions/ADR-0001-Repository-Structure.md)

@@ -1,0 +1,7 @@
+PURPOSE:
+  Home for incubating site projects (teaser/landing pages) before they graduate to apps/marketing/.
+  Migrated here from a repo-root teaser folder when this template was created.
+CONTAINS (expected):
+  - Astro or Next.js site project (src/, public/, config)
+  - README noting owner, status, and graduation criteria
+SEE: sandbox/purpose.txt

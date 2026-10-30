@@ -1,0 +1,7 @@
+PURPOSE:
+  Framework-free helpers (Bengali string utils, deep merge, slugify bn/en, pagination). Keep small — no grab-bag growth.
+
+SHOULD CONTAIN:
+  - *.ts, README.md — admission rule for new utils
+
+SEE: ADR-0001 (docs/decisions/ADR-0001-Repository-Structure.md)

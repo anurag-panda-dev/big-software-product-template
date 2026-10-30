@@ -1,0 +1,7 @@
+PURPOSE:
+  Privacy policy drafts and data-retention matrix (what PII, where, how long, encrypted with what).
+
+SHOULD CONTAIN:
+  - privacy-policy.md, data-retention-matrix.md, consent-flows.md
+
+SEE: ADR-0001 (docs/decisions/ADR-0001-Repository-Structure.md)

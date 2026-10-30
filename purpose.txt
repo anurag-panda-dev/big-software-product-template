@@ -1,0 +1,13 @@
+PURPOSE:
+  Big Software Product Template — an ecosystem-first monorepo for building large,
+  multi-product software systems (domain-organized, not tech-organized).
+  Rules of thumb: deployable -> apps/ · domain -> categories/ · reusable -> kernel/ ·
+  backend -> platform/ · data -> datasets/ · editorial -> content/ · business -> business/.
+  Empty scaffolding is forbidden: folders fill only as real work arrives.
+
+SHOULD CONTAIN:
+  - README.md, AGENTS.md, PACKAGE.md, CONTRIBUTING.md, CHANGELOG.md, LICENSE
+  - package.json, pnpm-workspace.yaml, turbo.json, tsconfig.base.json
+  - .env.example, .editorconfig, .nvmrc, .gitignore, .prettierrc, .husky/
+
+SEE: docs/decisions/EXAMPLE-ADR-0001-Bongo-Tathya.md (structure rationale)

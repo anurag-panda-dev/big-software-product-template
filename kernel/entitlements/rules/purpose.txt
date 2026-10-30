@@ -1,0 +1,7 @@
+PURPOSE:
+  Declarative entitlement definitions: free vs paid tiers, per-product quotas, category-level grants. Fed by business/pricing/tiers, enforced near platform/payments.
+
+SHOULD CONTAIN:
+  - *.rule.ts (Zod), tiers.ts, quota.ts
+
+SEE: ADR-0001 (docs/decisions/ADR-0001-Repository-Structure.md)

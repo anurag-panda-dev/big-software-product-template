@@ -1,0 +1,7 @@
+PURPOSE:
+  Strategy documents: brand/identity/UIUX (01–04), GTM/monetization/competitive/team/legal/roadmap/metrics (15–21), IDEA-PITCH, taglines.
+
+SHOULD CONTAIN:
+  - 01–04, 15–21, IDEA-PITCH.md, Bongo Tathya Taglines.md
+
+SEE: ADR-0001 (docs/decisions/ADR-0001-Repository-Structure.md)

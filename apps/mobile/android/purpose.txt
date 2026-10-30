@@ -1,0 +1,7 @@
+PURPOSE:
+  Standalone native Android shell (Kotlin) — only if a fully native surface is ever required. Otherwise android/ lives inside the chosen stack folder.
+
+SHOULD CONTAIN:
+  - Nothing until justified by an RFC
+
+SEE: ADR-0001 (docs/decisions/ADR-0001-Repository-Structure.md)

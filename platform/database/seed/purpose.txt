@@ -1,0 +1,7 @@
+PURPOSE:
+  Seed scripts: locations hierarchy (23 districts -> blocks -> villages + geo), baseline content types.
+
+SHOULD CONTAIN:
+  - locations.seed.ts, content-types.seed.ts
+
+SEE: ADR-0001 (docs/decisions/ADR-0001-Repository-Structure.md)

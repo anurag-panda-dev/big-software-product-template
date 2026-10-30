@@ -1,0 +1,7 @@
+PURPOSE:
+  FAQ collections per scheme/product — also feeds Kotha's offline cache.
+
+SHOULD CONTAIN:
+  - <slug>.md, faq-schema (Q, A, source)
+
+SEE: ADR-0001 (docs/decisions/ADR-0001-Repository-Structure.md)

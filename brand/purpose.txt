@@ -1,0 +1,7 @@
+PURPOSE:
+  Brand assets source of truth — logos, fonts, gallery. Tokens are GENERATED from here into kernel/design-system/tokens via tooling/codegen.
+
+SHOULD CONTAIN:
+  - svg/, png/, fonts/, scripts/, gallery.html
+
+SEE: ADR-0001 (docs/decisions/ADR-0001-Repository-Structure.md)

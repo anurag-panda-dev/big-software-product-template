@@ -1,0 +1,7 @@
+PURPOSE:
+  Screenshot baselines guarding brand fidelity across products (colors, Bangla typography, lockups).
+
+SHOULD CONTAIN:
+  - *.visual.ts, __screenshots__/
+
+SEE: ADR-0001 (docs/decisions/ADR-0001-Repository-Structure.md)

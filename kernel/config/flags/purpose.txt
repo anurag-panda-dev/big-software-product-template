@@ -1,0 +1,7 @@
+PURPOSE:
+  Environment-driven feature flags — gate unfinished features without branch drift.
+
+SHOULD CONTAIN:
+  - flags.ts, flags.schema.ts (Zod), .env.example entries
+
+SEE: ADR-0001 (docs/decisions/ADR-0001-Repository-Structure.md)

@@ -1,0 +1,7 @@
+PURPOSE:
+  Natural Bangla text-to-speech tuned to work on low-end phones (compressed audio, short clips).
+
+SHOULD CONTAIN:
+  - tts-client/, voice-profiles/, audio-post/
+
+SEE: ADR-0001 (docs/decisions/ADR-0001-Repository-Structure.md)

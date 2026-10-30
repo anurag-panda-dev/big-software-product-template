@@ -1,0 +1,8 @@
+PURPOSE:
+  Legal templates used by THIS repo's contributors: contributor agreement, content contribution terms, partnership MOUs.
+  (Corporate NDA/contract masters live in company-ops.)
+
+SHOULD CONTAIN:
+  - contributor-agreement.md, content-terms.md, partnership-mou.md
+
+SEE: ADR-0001 (docs/decisions/ADR-0001-Repository-Structure.md)

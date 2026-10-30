@@ -1,0 +1,7 @@
+PURPOSE:
+  Non-web channels for Kotha: SMS Q&A fallback for feature phones, offline cache of frequent local questions.
+
+SHOULD CONTAIN:
+  - sms/ (MSG91 in/out), offline-cache/
+
+SEE: ADR-0001 (docs/decisions/ADR-0001-Repository-Structure.md)

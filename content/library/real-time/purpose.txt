@@ -1,0 +1,7 @@
+PURPOSE:
+  Curated real-time content: alerts, prices, weather advisories — curated views over datasets/curated (raw feeds stay in datasets/).
+
+SHOULD CONTAIN:
+  - alerts/, prices/, weather/ — each with last_verified stamps
+
+SEE: ADR-0001 (docs/decisions/ADR-0001-Repository-Structure.md)

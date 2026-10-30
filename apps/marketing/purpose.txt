@@ -1,0 +1,7 @@
+PURPOSE:
+  Public landing/SEO/marketing pages — absorbs today's Teaser/ (Astro) when it graduates from sandbox/.
+
+SHOULD CONTAIN:
+  - Astro or Next.js site, og-images, waitlist forms
+
+SEE: ADR-0001 (docs/decisions/ADR-0001-Repository-Structure.md)

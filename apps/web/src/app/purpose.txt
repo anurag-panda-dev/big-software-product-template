@@ -1,0 +1,8 @@
+PURPOSE:
+  Next.js App Router: one route group per category (e.g., app/(bhromon)/jela-darshan/...). Pages only — no business logic.
+
+SHOULD CONTAIN:
+  - (categories)/<route>/page.tsx, layout.tsx, loading.tsx, error.tsx
+  - api/ — thin route handlers delegating to platform/api or local logic
+
+SEE: ADR-0001 (docs/decisions/ADR-0001-Repository-Structure.md)

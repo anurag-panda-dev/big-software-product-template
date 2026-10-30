@@ -1,0 +1,7 @@
+PURPOSE:
+  Zod/JSON Schema for EVERY curated dataset — validated in CI (data-validation.yml). No schema = no merge.
+
+SHOULD CONTAIN:
+  - <dataset>.schema.ts, validate.mjs, README.md
+
+SEE: ADR-0001 (docs/decisions/ADR-0001-Repository-Structure.md)

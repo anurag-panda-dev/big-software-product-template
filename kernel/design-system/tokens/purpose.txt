@@ -1,0 +1,7 @@
+PURPOSE:
+  Generated design tokens: colors, spacing, type scale incl. Bangla serif/sans pairing, radii, motion. GENERATED from brand/ via tooling/codegen.
+
+SHOULD CONTAIN:
+  - tokens.json, tailwind.preset.js, brand-map.md (source svg/png/fonts -> token)
+
+SEE: ADR-0001 (docs/decisions/ADR-0001-Repository-Structure.md)

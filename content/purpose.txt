@@ -1,0 +1,8 @@
+PURPOSE:
+  Editorial engine per docs/14-Content-Strategy: "Satyo, Shohoj, Shoktiśālī" (True, Simple, Powerful).
+  Publishing pipeline: research -> write -> review -> publish -> monitor.
+
+SHOULD CONTAIN:
+  - style-guide.md, templates/, workflow/, library/, locale/, seo/, moderation/
+
+SEE: ADR-0001 (docs/decisions/ADR-0001-Repository-Structure.md)

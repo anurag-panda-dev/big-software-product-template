@@ -1,0 +1,7 @@
+PURPOSE:
+  API integration tests: auth flows, validation, pagination, idempotent webhooks.
+
+SHOULD CONTAIN:
+  - *.test.ts (or test_*.py), test-helpers/
+
+SEE: ADR-0001 (docs/decisions/ADR-0001-Repository-Structure.md)

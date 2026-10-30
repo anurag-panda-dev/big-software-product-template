@@ -1,0 +1,7 @@
+PURPOSE:
+  Secondary English mirror — for SEO/syndication; Bangla always wins on conflict.
+
+SHOULD CONTAIN:
+  - <slug>.md mirrors
+
+SEE: ADR-0001 (docs/decisions/ADR-0001-Repository-Structure.md)

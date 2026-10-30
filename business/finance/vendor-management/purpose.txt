@@ -1,0 +1,7 @@
+PURPOSE:
+  Approved software/SaaS vendor inventory: owners, renewal dates, vendor security reviews (SOC2 sign-offs).
+
+SHOULD CONTAIN:
+  - software-inventory.md, vendor-security-reviews.md
+
+SEE: ADR-0001 (docs/decisions/ADR-0001-Repository-Structure.md)

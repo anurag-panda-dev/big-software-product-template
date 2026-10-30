@@ -1,0 +1,7 @@
+PURPOSE:
+  Explainers ("What is thalassemia?") — rarely updated, evergreen.
+
+SHOULD CONTAIN:
+  - <slug>.md
+
+SEE: ADR-0001 (docs/decisions/ADR-0001-Repository-Structure.md)

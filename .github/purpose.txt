@@ -1,0 +1,9 @@
+PURPOSE:
+  Repository automation, governance, and contributor templates.
+
+SHOULD CONTAIN:
+  - workflows/ — CI/CD pipelines
+  - ISSUE_TEMPLATE/ — bug, feature, and data-correction templates
+  - PULL_REQUEST_TEMPLATE.md, CODEOWNERS (categories/* -> owning team)
+
+SEE: ADR-0001 (docs/decisions/ADR-0001-Repository-Structure.md)

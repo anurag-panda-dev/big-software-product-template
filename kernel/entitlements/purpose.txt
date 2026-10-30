@@ -1,0 +1,7 @@
+PURPOSE:
+  Single source of truth for access: what may this user see/do (free floor, quotas, category grants). Products read this; they never talk to payments.
+
+SHOULD CONTAIN:
+  - rules/ — declarative entitlement rules keyed by user tier + product
+
+SEE: ADR-0001 (docs/decisions/ADR-0001-Repository-Structure.md)

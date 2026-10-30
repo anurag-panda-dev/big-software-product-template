@@ -1,0 +1,7 @@
+PURPOSE:
+  Channel adapters: SMS (MSG91), WhatsApp, email, push, IVR. One interface, many transports, per-channel rate limits.
+
+SHOULD CONTAIN:
+  - sms/, whatsapp/, email/, push/, ivr/, adapter-interface.ts
+
+SEE: ADR-0001 (docs/decisions/ADR-0001-Repository-Structure.md)

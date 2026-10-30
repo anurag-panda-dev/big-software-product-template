@@ -1,0 +1,7 @@
+PURPOSE:
+  One folder per official/source origin: license, rate limits, fetch method, trust level, last successful pull.
+
+SHOULD CONTAIN:
+  - <source-name>/README.md, contact.json, license.md
+
+SEE: ADR-0001 (docs/decisions/ADR-0001-Repository-Structure.md)

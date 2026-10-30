@@ -1,0 +1,7 @@
+PURPOSE:
+  Dashboards, alerts, SLOs: uptime, latency, search health, job failures, error rates (Sentry-linked).
+
+SHOULD CONTAIN:
+  - dashboards/, alerts/, slo.md
+
+SEE: ADR-0001 (docs/decisions/ADR-0001-Repository-Structure.md)

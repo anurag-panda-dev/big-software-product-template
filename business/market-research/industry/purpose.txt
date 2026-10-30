@@ -1,0 +1,7 @@
+PURPOSE:
+  Industry & market sizing: TAM/SAM/SOM, Bengal demographics, surveys, adoption data.
+
+SHOULD CONTAIN:
+  - tam-sam-som.md, demographics/, surveys/, sources.md
+
+SEE: ADR-0001 (docs/decisions/ADR-0001-Repository-Structure.md)

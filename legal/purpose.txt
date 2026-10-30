@@ -1,0 +1,7 @@
+PURPOSE:
+  Code-adjacent legal & compliance ONLY (spans code + business). Corporate documents (equity, HR, signed contracts, IP filings) live in the PRIVATE company-ops repo — never here.
+
+SHOULD CONTAIN:
+  - compliance/, licenses/, privacy/, templates/, nda.md (pointer to company-ops)
+
+SEE: ADR-0001 (docs/decisions/ADR-0001-Repository-Structure.md)

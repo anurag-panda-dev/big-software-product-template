@@ -1,0 +1,7 @@
+PURPOSE:
+  Ingestion/ETL scripts, one folder per source: fetch -> parse -> validate against datasets/schemas -> land in curated/.
+
+SHOULD CONTAIN:
+  - <source-name>/{fetch,parse,run}.mjs, README.md — cadence + owner
+
+SEE: ADR-0001 (docs/decisions/ADR-0001-Repository-Structure.md)

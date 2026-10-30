@@ -1,0 +1,7 @@
+PURPOSE:
+  Stack-agnostic mobile source of truth: screen inventory, navigation map, feature specs, shared icons/illustrations, API contract references.
+
+SHOULD CONTAIN:
+  - screens.md, navigation.md, assets/, spec links -> categories/*
+
+SEE: ADR-0001 (docs/decisions/ADR-0001-Repository-Structure.md)

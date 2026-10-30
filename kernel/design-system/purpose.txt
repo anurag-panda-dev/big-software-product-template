@@ -1,0 +1,9 @@
+PURPOSE:
+  Design system generated from brand/ (docs/04 UIUX guidelines): tokens + primitives. Products style only through here.
+
+SHOULD CONTAIN:
+  - tokens/ — generated (do not hand-edit)
+  - components/ — primitives (Button, Card, BengaliText...)
+  - README.md — contribution rules for new primitives
+
+SEE: ADR-0001 (docs/decisions/ADR-0001-Repository-Structure.md)

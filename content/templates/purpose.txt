@@ -1,0 +1,7 @@
+PURPOSE:
+  Canonical templates for each content type — structure enforces the standards in docs/14 (headings, tables, Bengali numerals).
+
+SHOULD CONTAIN:
+  - guide.md, directory.md, comparison.md, explainer.md, faq.md
+
+SEE: ADR-0001 (docs/decisions/ADR-0001-Repository-Structure.md)

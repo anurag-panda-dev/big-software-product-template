@@ -1,0 +1,7 @@
+PURPOSE:
+  Competitor profiles + battlecards (docs/17-Competitive-Analysis): features, pricing, gaps.
+
+SHOULD CONTAIN:
+  - <competitor>.md, battlecards/, comparison-matrix.md
+
+SEE: ADR-0001 (docs/decisions/ADR-0001-Repository-Structure.md)

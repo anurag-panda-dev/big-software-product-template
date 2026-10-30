@@ -1,0 +1,7 @@
+PURPOSE:
+  User research: personas, interview transcripts/notes, usability study findings.
+
+SHOULD CONTAIN:
+  - personas/, interviews/, studies/, insights.md
+
+SEE: ADR-0001 (docs/decisions/ADR-0001-Repository-Structure.md)

@@ -1,0 +1,7 @@
+PURPOSE:
+  Master vector assets: mark, logos (horizontal/full), icon, OG card. Edit these; PNGs are exports.
+
+SHOULD CONTAIN:
+  - bongotathya-*.svg
+
+SEE: ADR-0001 (docs/decisions/ADR-0001-Repository-Structure.md)

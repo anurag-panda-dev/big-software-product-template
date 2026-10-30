@@ -1,0 +1,39 @@
+# Dependencies / builds
+node_modules/
+dist/
+build/
+.next/
+.turbo/
+.astro/
+coverage/
+
+# Env / secrets
+.env
+.env.local
+.env.*.local
+
+# Scratch (graduates to tooling/scripts/ or sandbox/)
+temp/*
+sandbox/playground/
+
+# Editors / OS
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+
+# Logs
+*.log
+npm-debug.log*
+
+# Tooling caches
+.eslintcache
+*.tsbuildinfo
+
+# Data (large raw sources stay local or in Git LFS)
+datasets/raw/*
+!datasets/raw/.gitkeep
+
+# Editor-specific
+.obsidian/

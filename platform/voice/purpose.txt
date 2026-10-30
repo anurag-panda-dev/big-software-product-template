@@ -1,0 +1,7 @@
+PURPOSE:
+  Kotha voice infrastructure: STT (Whisper, Bangla-tuned) -> NLU -> TTS pipeline, telephony/SMS gateways. Product logic stays in crosscutting/kotha.
+
+SHOULD CONTAIN:
+  - stt/, tts/, pipeline/, telephony/
+
+SEE: ADR-0001 (docs/decisions/ADR-0001-Repository-Structure.md)

@@ -1,0 +1,8 @@
+PURPOSE:
+  The reusable core — "what every product IS". No app, category, or crosscutting code lands here.
+  Everything above platform/ may import kernel/.
+
+SHOULD CONTAIN:
+  - design-system/, contracts/, auth/, offline/, i18n/, entitlements/, telemetry/, hooks/, utils/, config/
+
+SEE: ADR-0001 (docs/decisions/ADR-0001-Repository-Structure.md)

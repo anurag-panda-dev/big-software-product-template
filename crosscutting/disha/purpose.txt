@@ -1,0 +1,7 @@
+PURPOSE:
+  Disha (দিশা) — guidance engine: "what should I do next" across schemes, education, health, legal needs. Injected via SDK, not a separate destination.
+
+SHOULD CONTAIN:
+  - engine/, sdk/
+
+SEE: ADR-0001 (docs/decisions/ADR-0001-Repository-Structure.md)

@@ -1,0 +1,11 @@
+PURPOSE:
+  Shared-within-Dainik Jibon code: common types, fixtures, seed data, and helpers used by the category's products.
+  NOT a dumping ground — cross-category reuse belongs in kernel/ or crosscutting/.
+
+SHOULD CONTAIN:
+  - types.ts / types/
+  - fixtures/
+  - seed/
+  - README.md — what is allowed to live here
+
+SEE: ADR-0001 (docs/decisions/ADR-0001-Repository-Structure.md)

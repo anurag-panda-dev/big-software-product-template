@@ -1,0 +1,7 @@
+PURPOSE:
+  Quality gates that span apps and categories (individual features test themselves in their __tests__/).
+
+SHOULD CONTAIN:
+  - e2e/, contract/, visual/
+
+SEE: ADR-0001 (docs/decisions/ADR-0001-Repository-Structure.md)

@@ -1,0 +1,7 @@
+PURPOSE:
+  Persistence: schema, migrations, RLS policies, seeds. The DB is a platform asset — products access through repositories, not raw SQL.
+
+SHOULD CONTAIN:
+  - prisma/, supabase/, seed/
+
+SEE: ADR-0001 (docs/decisions/ADR-0001-Repository-Structure.md)

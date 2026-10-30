@@ -1,0 +1,7 @@
+PURPOSE:
+  How-to guides ("How to apply for Kanyashree") — updated as needed, Bangla-first.
+
+SHOULD CONTAIN:
+  - <slug>.md with frontmatter (last_updated, sources, products)
+
+SEE: ADR-0001 (docs/decisions/ADR-0001-Repository-Structure.md)

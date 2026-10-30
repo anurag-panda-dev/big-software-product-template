@@ -1,0 +1,7 @@
+PURPOSE:
+  Injectable components every product embeds to render Disha guidance in-place (inline banner, checklist, deep links).
+
+SHOULD CONTAIN:
+  - Guidance.tsx, Checklist.tsx, deep-link helpers
+
+SEE: ADR-0001 (docs/decisions/ADR-0001-Repository-Structure.md)

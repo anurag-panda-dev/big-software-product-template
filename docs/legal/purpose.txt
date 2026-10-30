@@ -1,0 +1,7 @@
+PURPOSE:
+  Legacy legal docs pointer: NDA.md migrates to legal/ (code-adjacent) or company-ops (corporate template) when that repo exists.
+
+SHOULD CONTAIN:
+  - NDA.md (until migrated)
+
+SEE: ADR-0001 (docs/decisions/ADR-0001-Repository-Structure.md)

@@ -1,0 +1,7 @@
+PURPOSE:
+  Team & hiring operations per docs/19 (org structure, hiring phases, salary bands, culture, retention).
+
+SHOULD CONTAIN:
+  - org/, hiring/, runbooks/
+
+SEE: ADR-0001 (docs/decisions/ADR-0001-Repository-Structure.md)

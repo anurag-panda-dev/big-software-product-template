@@ -1,0 +1,7 @@
+PURPOSE:
+  Dockerfiles ONLY for self-hosted pieces (platform/voice, platform/jobs) when serverless stops fitting.
+
+SHOULD CONTAIN:
+  - <service>/Dockerfile, compose.yaml — created on demand
+
+SEE: ADR-0001 (docs/decisions/ADR-0001-Repository-Structure.md)

@@ -1,0 +1,7 @@
+PURPOSE:
+  PRIMARY content language — Bangla (Bengali script), conversational 'তুমি' tone, simple vocabulary, Bengali numerals.
+
+SHOULD CONTAIN:
+  - <slug>.md — Bangla body, frontmatter in English
+
+SEE: ADR-0001 (docs/decisions/ADR-0001-Repository-Structure.md)

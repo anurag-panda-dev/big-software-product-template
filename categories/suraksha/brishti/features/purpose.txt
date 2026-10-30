@@ -1,0 +1,13 @@
+PURPOSE:
+  Feature slices for Brishti — one folder per user-facing capability, created as the feature is built (do NOT pre-create empty features).
+  Slice structure: <feature>/{ui, logic, data, api, __tests__}.
+  Slices may import kernel/, crosscutting/, and this category's _category/ — never another category or another product.
+
+SHOULD CONTAIN:
+  - <feature-name>/ui/ — components for this feature
+  - <feature-name>/logic/ — pure domain logic (framework-free, testable)
+  - <feature-name>/data/ — queries and adapters
+  - <feature-name>/api/ — endpoint contracts this feature exposes
+  - <feature-name>/__tests__/ — unit tests
+
+SEE: ADR-0001 (docs/decisions/ADR-0001-Repository-Structure.md)

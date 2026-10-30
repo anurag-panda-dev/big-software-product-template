@@ -1,0 +1,7 @@
+PURPOSE:
+  Per-user opt-in/out, channel priorities, quiet hours, DND/TRAI compliance records.
+
+SHOULD CONTAIN:
+  - preferences.ts, compliance.ts
+
+SEE: ADR-0001 (docs/decisions/ADR-0001-Repository-Structure.md)

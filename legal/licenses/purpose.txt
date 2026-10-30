@@ -1,0 +1,7 @@
+PURPOSE:
+  License inventory for everything consumed: datasets, fonts (OFL etc.), logos, images, dependencies. Prevents copyleft contamination.
+
+SHOULD CONTAIN:
+  - <asset>.license.md, gpl-audit.md, README.md — attribution obligations
+
+SEE: ADR-0001 (docs/decisions/ADR-0001-Repository-Structure.md)

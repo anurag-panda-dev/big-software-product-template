@@ -1,0 +1,7 @@
+PURPOSE:
+  Government schemes: eligibility, benefits, steps, documents, deadlines, department, source links.
+
+SHOULD CONTAIN:
+  - schemes.json (+ per-department splits), changelog/
+
+SEE: ADR-0001 (docs/decisions/ADR-0001-Repository-Structure.md)

@@ -1,0 +1,8 @@
+PURPOSE:
+  The shared layer (products 28 & 29) — architectural peers of categories, not buried packages.
+  May import kernel/ only.
+
+SHOULD CONTAIN:
+  - kotha/, disha/
+
+SEE: ADR-0001 (docs/decisions/ADR-0001-Repository-Structure.md)

@@ -1,0 +1,7 @@
+PURPOSE:
+  Users, sessions, permissions — supabase-auth wrapper + anonymous session minting + phone verification.
+
+SHOULD CONTAIN:
+  - users/, sessions/, permissions/, phone-verify/
+
+SEE: ADR-0001 (docs/decisions/ADR-0001-Repository-Structure.md)

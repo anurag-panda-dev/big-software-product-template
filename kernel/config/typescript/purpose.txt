@@ -1,0 +1,7 @@
+PURPOSE:
+  Shared tsconfig bases: strict mode, path aliases (@kernel, @categories, @crosscutting).
+
+SHOULD CONTAIN:
+  - base.json, react.json, node.json
+
+SEE: ADR-0001 (docs/decisions/ADR-0001-Repository-Structure.md)

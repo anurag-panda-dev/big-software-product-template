@@ -1,0 +1,7 @@
+PURPOSE:
+  One adapter per payment gateway behind a common interface (Razorpay first: UPI, cards, netbanking). Swap without touching products.
+
+SHOULD CONTAIN:
+  - <gateway>/ (razorpay/...), adapter-interface.ts
+
+SEE: ADR-0001 (docs/decisions/ADR-0001-Repository-Structure.md)

@@ -1,0 +1,7 @@
+PURPOSE:
+  Shared toolchain configuration extended by every workspace package.
+
+SHOULD CONTAIN:
+  - eslint/, typescript/, tailwind/, prettier/, flags/
+
+SEE: ADR-0001 (docs/decisions/ADR-0001-Repository-Structure.md)

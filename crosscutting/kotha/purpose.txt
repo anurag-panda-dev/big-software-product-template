@@ -1,0 +1,11 @@
+PURPOSE:
+  Kotha (কথা) — Bangla voice & conversational layer across all 29 products. Grounded answers only; router, not a walled garden.
+
+SHOULD CONTAIN:
+  - intent/ — NLU/intent classification
+  - router/ — intent -> product/view routing
+  - answers/ — grounded answer engine + source/last-verified metadata
+  - widget/ — embeddable component every product mounts
+  - channels/ — SMS fallback, offline cache
+
+SEE: ADR-0001 (docs/decisions/ADR-0001-Repository-Structure.md)

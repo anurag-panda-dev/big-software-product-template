@@ -1,0 +1,11 @@
+PURPOSE:
+  REST API — STACK UNDECIDED (Express <-> FastAPI). Contract-first: spec lives in openapi/, generated FROM kernel/contracts.
+  src/ is Express layout; rename to app/ if the FastAPI RFC wins (pyproject.toml instead of package.json).
+
+SHOULD CONTAIN:
+  - DECISION.md — link to rfcs/0001
+  - openapi/ — authoritative spec (contract tests consume it)
+  - src/ (or app/) — handlers/routes/controllers
+  - tests/ — integration tests
+
+SEE: ADR-0001 (docs/decisions/ADR-0001-Repository-Structure.md)

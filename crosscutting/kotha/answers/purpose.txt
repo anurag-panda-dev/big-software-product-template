@@ -1,0 +1,7 @@
+PURPOSE:
+  Answer engine: retrieves ONLY from verified ecosystem data; every answer carries source + last-verified date; explicit no-answer state (never invents).
+
+SHOULD CONTAIN:
+  - answer.ts, sources.ts, no-answer.ts, feedback/ — learning loop (most-asked / confusion)
+
+SEE: ADR-0001 (docs/decisions/ADR-0001-Repository-Structure.md)

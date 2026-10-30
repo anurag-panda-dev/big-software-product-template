@@ -1,0 +1,7 @@
+PURPOSE:
+  Prototypes and incubating projects — throwaway or graduation-bound work.
+  NOT production: may be messy, never imported by apps/ or categories/.
+CONTAINS (expected):
+  - teaser/ — incubating site/marketing projects (graduates to apps/marketing/)
+  - playground/ — component spikes, API mocks, data-viz tests, one folder per topic
+SEE: ADR-0001 example · root purpose.txt

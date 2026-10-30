@@ -1,0 +1,7 @@
+PURPOSE:
+  Bangla<->Roman transliteration for tolerant search: 'darjeeling' finds 'দার্জিলিং' and vice versa.
+
+SHOULD CONTAIN:
+  - map tables, normalize(), search-normalizer.ts
+
+SEE: ADR-0001 (docs/decisions/ADR-0001-Repository-Structure.md)

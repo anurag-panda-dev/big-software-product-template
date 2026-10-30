@@ -1,0 +1,7 @@
+PURPOSE:
+  Vercel project configs per app (web, admin, marketing): env maps, domains, build settings.
+
+SHOULD CONTAIN:
+  - <app>.vercel.json, env-matrix.md
+
+SEE: ADR-0001 (docs/decisions/ADR-0001-Repository-Structure.md)

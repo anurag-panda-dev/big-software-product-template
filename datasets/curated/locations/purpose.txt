@@ -1,0 +1,7 @@
+PURPOSE:
+  Location hierarchy: 23 districts -> blocks -> villages/cities, with coordinates, Bangla + English names, metadata.
+
+SHOULD CONTAIN:
+  - districts.json, blocks.json, villages.geojson, index.json
+
+SEE: ADR-0001 (docs/decisions/ADR-0001-Repository-Structure.md)

@@ -1,0 +1,7 @@
+PURPOSE:
+  Product strategy & lifecycle hub — North Star, OKRs, multi-quarter initiatives, release readiness.
+
+SHOULD CONTAIN:
+  - strategy-roadmaps/, launch-playbooks/
+
+SEE: ADR-0001 (docs/decisions/ADR-0001-Repository-Structure.md)

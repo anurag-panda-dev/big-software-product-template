@@ -1,0 +1,7 @@
+PURPOSE:
+  Embeddable Kotha widget mounted by all 29 products — one shared component, Bangla-first UI, low-end phone friendly.
+
+SHOULD CONTAIN:
+  - Widget.tsx, styles (kernel/design-system tokens), embed snippet docs
+
+SEE: ADR-0001 (docs/decisions/ADR-0001-Repository-Structure.md)

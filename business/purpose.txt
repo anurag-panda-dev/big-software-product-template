@@ -1,0 +1,7 @@
+PURPOSE:
+  Business & operations — strategy, research, growth, money, people, support. Versioned next to code; never imported by code.
+
+SHOULD CONTAIN:
+  - product/, market-research/, marketing/, pricing/, monetization/, finance/, metrics/, team/, support/
+
+SEE: ADR-0001 (docs/decisions/ADR-0001-Repository-Structure.md)

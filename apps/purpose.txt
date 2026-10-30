@@ -1,0 +1,7 @@
+PURPOSE:
+  Deployable shells. Thin by rule: routes, providers, and wiring only — all domain logic lives in categories/, reusable pieces in kernel/.
+
+SHOULD CONTAIN:
+  - web/, admin/, pwa/, marketing/, mobile/
+
+SEE: ADR-0001 (docs/decisions/ADR-0001-Repository-Structure.md)

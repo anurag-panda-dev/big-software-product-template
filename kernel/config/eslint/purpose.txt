@@ -1,0 +1,7 @@
+PURPOSE:
+  Shared ESLint config incl. BOUNDARY RULES (eslint-plugin-boundaries / dependency-cruiser): the lint that enforces the ADR.
+
+SHOULD CONTAIN:
+  - index.js, boundaries.js, rules/
+
+SEE: ADR-0001 (docs/decisions/ADR-0001-Repository-Structure.md)

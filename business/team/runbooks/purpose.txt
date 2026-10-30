@@ -1,0 +1,7 @@
+PURPOSE:
+  People runbooks: role-specific onboarding checklists, training plans, retention/1:1 cadences.
+
+SHOULD CONTAIN:
+  - onboarding/<role>.md, training.md, retention.md
+
+SEE: ADR-0001 (docs/decisions/ADR-0001-Repository-Structure.md)

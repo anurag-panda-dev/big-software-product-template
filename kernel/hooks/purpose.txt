@@ -1,0 +1,7 @@
+PURPOSE:
+  Shared React hooks (offline sync status, locale, entitlement check, analytics page view, geo).
+
+SHOULD CONTAIN:
+  - useOffline.ts, useLocale.ts, useEntitlement.ts, index.ts
+
+SEE: ADR-0001 (docs/decisions/ADR-0001-Repository-Structure.md)

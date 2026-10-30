@@ -1,0 +1,7 @@
+PURPOSE:
+  Health facilities: hospitals, clinics, doctors, blood banks, timings, fees, contact, coordinates.
+
+SHOULD CONTAIN:
+  - hospitals.json, doctors.json, blood-banks.json
+
+SEE: ADR-0001 (docs/decisions/ADR-0001-Repository-Structure.md)

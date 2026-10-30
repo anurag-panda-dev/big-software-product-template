@@ -1,0 +1,8 @@
+PURPOSE:
+  Architecture Decision Records — LANDED decisions (pending proposals live in /rfcs at repo root).
+  One file per decision, append-only amendments, never silently rewritten.
+CONTAINS (expected):
+  - TEMPLATE.md — copy to ADR-NNNN-Title.md for a new decision
+  - ADR-NNNN-Title.md — one per landed decision
+  - EXAMPLE-ADR-0001-Bongo-Tathya.md — a real ADR showing the format and depth
+SEE: PACKAGE.md (decision process) · docs/README.md

@@ -1,0 +1,7 @@
+PURPOSE:
+  Infrastructure-as-code and environment configs — created as each target is adopted (no premature Docker).
+
+SHOULD CONTAIN:
+  - vercel/, cloudflare/, docker/, monitoring/
+
+SEE: ADR-0001 (docs/decisions/ADR-0001-Repository-Structure.md)

@@ -1,0 +1,10 @@
+PURPOSE:
+  Britti (বৃত্তি) — Scholarships and financial aid.
+  Feature-sliced product: everything here is domain-owned and portable (no React/HTTP/DB imports in logic/).
+
+SHOULD CONTAIN:
+  - product.md — spec pointer -> docs/product/07-Category-3-Education-and-Career.md
+  - routes/ — page/screen definitions wired by apps/web (and apps/mobile via shared/)
+  - features/ — one folder per capability: <feature>/{ui,logic,data,api,__tests__}
+
+SEE: ADR-0001 (docs/decisions/ADR-0001-Repository-Structure.md)

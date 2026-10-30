@@ -1,0 +1,7 @@
+PURPOSE:
+  Alert feeds: flood, cyclone, rainfall, disaster — normalized from IMD/CWC/state sources with severity + timestamps.
+
+SHOULD CONTAIN:
+  - active.json, archive/, severity-levels.md
+
+SEE: ADR-0001 (docs/decisions/ADR-0001-Repository-Structure.md)

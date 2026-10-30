@@ -1,0 +1,7 @@
+PURPOSE:
+  Message templates with bn (primary) and en variants; templating vars validated; provider template IDs tracked.
+
+SHOULD CONTAIN:
+  - bn/, en/, registry.ts (channel + template id + variables)
+
+SEE: ADR-0001 (docs/decisions/ADR-0001-Repository-Structure.md)

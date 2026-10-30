@@ -1,0 +1,7 @@
+PURPOSE:
+  Market research & insight — the evidence base for product and pricing decisions.
+
+SHOULD CONTAIN:
+  - competitive/, users/, industry/, data/
+
+SEE: ADR-0001 (docs/decisions/ADR-0001-Repository-Structure.md)

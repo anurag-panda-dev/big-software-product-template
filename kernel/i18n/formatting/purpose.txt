@@ -1,0 +1,7 @@
+PURPOSE:
+  Locale-aware formatters: Bengali numerals (১০,০০০), dates (১৫ জানুয়ারি ২০২৫), currency (₹ with Bengali digits).
+
+SHOULD CONTAIN:
+  - number.ts, date.ts, currency.ts
+
+SEE: ADR-0001 (docs/decisions/ADR-0001-Repository-Structure.md)

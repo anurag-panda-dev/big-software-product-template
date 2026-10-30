@@ -1,0 +1,7 @@
+PURPOSE:
+  Budget & procurement — NON-SENSITIVE only. Equity/cap-table and salary contracts belong in the private company-ops repo (NOT here).
+
+SHOULD CONTAIN:
+  - budget-proposals/, vendor-management/
+
+SEE: ADR-0001 (docs/decisions/ADR-0001-Repository-Structure.md)

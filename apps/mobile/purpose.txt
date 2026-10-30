@@ -1,0 +1,9 @@
+PURPOSE:
+  Native mobile apps — STACK UNDECIDED (React Native <-> Flutter). Same stack-neutral pattern as platform/api: choose via RFC, keep contracts shared.
+
+SHOULD CONTAIN:
+  - DECISION.md — points to the mobile RFC
+  - shared/ — screens list, navigation map, feature specs, assets used by whichever stack wins
+  - react-native/ OR flutter/ becomes active; android/ + ios/ exist only as standalone shells if ever needed
+
+SEE: ADR-0001 (docs/decisions/ADR-0001-Repository-Structure.md)

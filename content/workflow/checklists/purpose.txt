@@ -1,0 +1,7 @@
+PURPOSE:
+  Mandatory gates before publish: fact-check (2 independent sources), legal, sensitivity, SEO, accessibility (WCAG 2.1 AA).
+
+SHOULD CONTAIN:
+  - fact-check.md, legal.md, sensitivity.md, seo.md, accessibility.md
+
+SEE: ADR-0001 (docs/decisions/ADR-0001-Repository-Structure.md)

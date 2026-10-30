@@ -1,0 +1,7 @@
+PURPOSE:
+  Telephony/SMS bridges (call-in voice line, Twilio/MSG91 bindings) if/when launched.
+
+SHOULD CONTAIN:
+  - call-in/, sms-bridge/
+
+SEE: ADR-0001 (docs/decisions/ADR-0001-Repository-Structure.md)

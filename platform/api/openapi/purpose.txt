@@ -1,0 +1,7 @@
+PURPOSE:
+  Authoritative OpenAPI spec — generated/validated against kernel/contracts; consumer-driven tests in tests/contract pin it.
+
+SHOULD CONTAIN:
+  - openapi.yaml, generation config, lint (spectral)
+
+SEE: ADR-0001 (docs/decisions/ADR-0001-Repository-Structure.md)

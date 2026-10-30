@@ -1,0 +1,9 @@
+PURPOSE:
+  Sanskriti (সংস্কৃতি) — Culture & heritage vertical. Holds 2 product(s): Itihas, Utsab.
+  Products inside may share types/fixtures/seeds via _category/ only.
+
+SHOULD CONTAIN:
+  - _category/ — shared within this category
+  - <product-slug>/ — one folder per product
+
+SEE: ADR-0001 (docs/decisions/ADR-0001-Repository-Structure.md)

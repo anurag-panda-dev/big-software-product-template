@@ -1,0 +1,7 @@
+PURPOSE:
+  Security engineering: threat model, security policy, pen-test/audit reports (implementation rules live in kernel/ + platform/).
+
+SHOULD CONTAIN:
+  - THREAT-MODEL.md, SECURITY.md, audits/
+
+SEE: ADR-0001 (docs/decisions/ADR-0001-Repository-Structure.md)

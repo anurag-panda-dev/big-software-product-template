@@ -1,0 +1,7 @@
+PURPOSE:
+  Price tests and results: hypotheses, cohorts, outcome, decision log.
+
+SHOULD CONTAIN:
+  - <experiment-name>/{hypothesis.md, results.md, decision.md}
+
+SEE: ADR-0001 (docs/decisions/ADR-0001-Repository-Structure.md)

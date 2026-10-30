@@ -1,0 +1,7 @@
+PURPOSE:
+  Structured issue intake: bugs, feature requests, and DATA CORRECTIONS (outdated scheme/place info).
+
+SHOULD CONTAIN:
+  - bug.md, feature.md, data-correction.md, config.yml (blank-issues disabled)
+
+SEE: ADR-0001 (docs/decisions/ADR-0001-Repository-Structure.md)

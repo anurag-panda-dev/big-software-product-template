@@ -1,0 +1,7 @@
+PURPOSE:
+  Speech-to-text tuned for Bengali dialects + code-mixed Bangla-English; low-bitrate phone audio support.
+
+SHOULD CONTAIN:
+  - whisper-client/, dialect-tuning/, audio-preprocessing/
+
+SEE: ADR-0001 (docs/decisions/ADR-0001-Repository-Structure.md)

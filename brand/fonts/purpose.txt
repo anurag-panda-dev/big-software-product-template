@@ -1,0 +1,7 @@
+PURPOSE:
+  Self-hosted webfonts: Poppins (Latin), Inter, Noto Sans/Serif Bengali (Bangla). Licensing tracked in legal/licenses/.
+
+SHOULD CONTAIN:
+  - *.woff2, manifest.json
+
+SEE: ADR-0001 (docs/decisions/ADR-0001-Repository-Structure.md)

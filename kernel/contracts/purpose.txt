@@ -1,0 +1,9 @@
+PURPOSE:
+  Single source of truth for data shapes (Zod): content, location, scheme, review, contribution, entitlement, answer...
+  Frontend + API both derive types from here — the API stack can change without touching consumers.
+
+SHOULD CONTAIN:
+  - *.schema.ts (content, location, scheme, review, notification...)
+  - index.ts — barrel exports; used by platform/api/openapi generation
+
+SEE: ADR-0001 (docs/decisions/ADR-0001-Repository-Structure.md)

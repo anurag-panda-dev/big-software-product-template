@@ -1,0 +1,7 @@
+PURPOSE:
+  Published content, organized by content type (NOT by product).
+
+SHOULD CONTAIN:
+  - guides/, directories/, comparisons/, explainers/, faqs/, real-time/
+
+SEE: ADR-0001 (docs/decisions/ADR-0001-Repository-Structure.md)

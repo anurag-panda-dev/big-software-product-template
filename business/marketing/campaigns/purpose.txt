@@ -1,0 +1,7 @@
+PURPOSE:
+  Active and upcoming marketing pushes — one folder per campaign with briefs, ad copy, tracking codes, results.
+
+SHOULD CONTAIN:
+  - <campaign-name>/{brief.md, assets/, copy/, tracking/, results.md}
+
+SEE: ADR-0001 (docs/decisions/ADR-0001-Repository-Structure.md)

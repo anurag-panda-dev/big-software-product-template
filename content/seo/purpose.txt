@@ -1,0 +1,7 @@
+PURPOSE:
+  SEO assets: meta templates, structured data (JSON-LD), sitemap sources, Bangla keyword maps.
+
+SHOULD CONTAIN:
+  - meta/, structured-data/, keywords/
+
+SEE: ADR-0001 (docs/decisions/ADR-0001-Repository-Structure.md)

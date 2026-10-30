@@ -1,0 +1,7 @@
+PURPOSE:
+  Brand build tooling: build assets, fetch fonts, export PNG, local gallery server.
+
+SHOULD CONTAIN:
+  - build-assets.mjs, fetch-fonts.mjs, export-png.ps1, serve.mjs
+
+SEE: ADR-0001 (docs/decisions/ADR-0001-Repository-Structure.md)

@@ -1,0 +1,7 @@
+PURPOSE:
+  Cleaned, versioned, schema-validated datasets — the ecosystem's canonical truth consumed by all products.
+
+SHOULD CONTAIN:
+  - locations/, schemes/, hospitals/, prices/, transport/, alerts/, content/
+
+SEE: ADR-0001 (docs/decisions/ADR-0001-Repository-Structure.md)

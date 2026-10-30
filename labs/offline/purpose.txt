@@ -1,0 +1,7 @@
+PURPOSE:
+  Offline-first research: sync conflict strategies, storage limits on low-end phones, SW cache heuristics.
+
+SHOULD CONTAIN:
+  - sync-prototypes/, storage-benchmarks/
+
+SEE: ADR-0001 (docs/decisions/ADR-0001-Repository-Structure.md)

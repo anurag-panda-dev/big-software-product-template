@@ -1,0 +1,7 @@
+PURPOSE:
+  User support operations: help center structure, ticket macros/FAQs, escalation paths (feeds content/library/faqs).
+
+SHOULD CONTAIN:
+  - help-center/, macros/, escalation.md, sla.md
+
+SEE: ADR-0001 (docs/decisions/ADR-0001-Repository-Structure.md)

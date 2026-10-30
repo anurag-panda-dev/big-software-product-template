@@ -1,0 +1,7 @@
+PURPOSE:
+  KPIs & OKRs from docs/21 — targets, weekly/monthly review cadence, actuals.
+
+SHOULD CONTAIN:
+  - okrs/, kpi-dashboard-links.md, reviews/<YYYY-MM>.md
+
+SEE: ADR-0001 (docs/decisions/ADR-0001-Repository-Structure.md)

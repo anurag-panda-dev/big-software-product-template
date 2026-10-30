@@ -1,0 +1,7 @@
+PURPOSE:
+  Revenue models beyond pricing: ads, partnerships, sponsorships, premium bundles — tracking against docs/16.
+
+SHOULD CONTAIN:
+  - models.md, ad-policy.md, partnerships/, revenue-tracking.md
+
+SEE: ADR-0001 (docs/decisions/ADR-0001-Repository-Structure.md)

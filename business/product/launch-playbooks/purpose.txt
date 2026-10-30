@@ -1,0 +1,7 @@
+PURPOSE:
+  Launch readiness: per-release checklists, rollout waves, feature flags plan, go/no-go criteria.
+
+SHOULD CONTAIN:
+  - <launch-name>/checklist.md, rollout-plan.md, rollback.md
+
+SEE: ADR-0001 (docs/decisions/ADR-0001-Repository-Structure.md)

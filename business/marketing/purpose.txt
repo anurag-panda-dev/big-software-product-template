@@ -1,0 +1,7 @@
+PURPOSE:
+  Brand & growth machinery — editorial calendars, campaigns, PR. (Editorial mechanics/templates live in content/; brand assets in brand/.)
+
+SHOULD CONTAIN:
+  - content-strategy/, campaigns/, public-relations/
+
+SEE: ADR-0001 (docs/decisions/ADR-0001-Repository-Structure.md)

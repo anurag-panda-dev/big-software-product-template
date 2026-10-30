@@ -1,0 +1,7 @@
+PURPOSE:
+  Cloudflare DNS/CDN/WAF config: zones, rules, rate-limit policies (Upstash for Redis).
+
+SHOULD CONTAIN:
+  - zones/, waf-rules.md, dns.md
+
+SEE: ADR-0001 (docs/decisions/ADR-0001-Repository-Structure.md)

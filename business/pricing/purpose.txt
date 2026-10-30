@@ -1,0 +1,7 @@
+PURPOSE:
+  Pricing & packaging for 29 products — free floor first (access to information is never paywalled).
+
+SHOULD CONTAIN:
+  - strategy.md, tiers/, experiments/
+
+SEE: ADR-0001 (docs/decisions/ADR-0001-Repository-Structure.md)

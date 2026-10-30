@@ -1,0 +1,7 @@
+PURPOSE:
+  Root-level React providers: session (kernel/auth), i18n (kernel/i18n), data queries, offline sync (kernel/offline), telemetry.
+
+SHOULD CONTAIN:
+  - Providers.tsx, session.tsx, query.tsx, offline.tsx
+
+SEE: ADR-0001 (docs/decisions/ADR-0001-Repository-Structure.md)

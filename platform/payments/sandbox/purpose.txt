@@ -1,0 +1,7 @@
+PURPOSE:
+  Test-mode harness — simulate successful/failed/pending payments locally with zero real money.
+
+SHOULD CONTAIN:
+  - mock-gateway/, fixtures/, scripts/
+
+SEE: ADR-0001 (docs/decisions/ADR-0001-Repository-Structure.md)

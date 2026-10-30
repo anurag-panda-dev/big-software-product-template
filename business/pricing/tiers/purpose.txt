@@ -1,0 +1,7 @@
+PURPOSE:
+  Tier matrices: per-product and per-category definitions (what is free vs premium), usage thresholds, billing model.
+
+SHOULD CONTAIN:
+  - <product>.tier.md or tiers.yaml — maps 1:1 to kernel/entitlements/rules
+
+SEE: ADR-0001 (docs/decisions/ADR-0001-Repository-Structure.md)

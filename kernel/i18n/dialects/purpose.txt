@@ -1,0 +1,7 @@
+PURPOSE:
+  Dialect hints (rural/urban/code-mixed) consumed by Kotha's classifier and by content tone checks.
+
+SHOULD CONTAIN:
+  - dialect-profiles/, hint-detector.ts
+
+SEE: ADR-0001 (docs/decisions/ADR-0001-Repository-Structure.md)

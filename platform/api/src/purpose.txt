@@ -1,0 +1,7 @@
+PURPOSE:
+  API implementation. Express: routes/ -> controllers/ -> services/ -> repositories. FastAPI: app/ with routers/... Either way, thin handlers; domain logic lives in categories/*/features/*/logic.
+
+SHOULD CONTAIN:
+  - routes/, controllers/, services/, middleware/ (rate limit, auth, zod validation)
+
+SEE: ADR-0001 (docs/decisions/ADR-0001-Repository-Structure.md)

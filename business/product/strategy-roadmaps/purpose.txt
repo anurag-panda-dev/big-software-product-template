@@ -1,0 +1,7 @@
+PURPOSE:
+  Vision and roadmap documents: yearly product pillars, quarterly epics and feature timelines.
+
+SHOULD CONTAIN:
+  - 20XX-product-vision.md, qN-product-roadmap.md, north-star.md, okrs/
+
+SEE: ADR-0001 (docs/decisions/ADR-0001-Repository-Structure.md)

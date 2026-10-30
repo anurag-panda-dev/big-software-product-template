@@ -1,0 +1,7 @@
+PURPOSE:
+  OPTIONAL (later): packaged offline-first variant of the web app if the service-worker surface outgrows apps/web.
+
+SHOULD CONTAIN:
+  - Only created when apps/web can no longer host the offline layer
+
+SEE: ADR-0001 (docs/decisions/ADR-0001-Repository-Structure.md)

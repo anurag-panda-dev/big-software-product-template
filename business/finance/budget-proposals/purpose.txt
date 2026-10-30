@@ -1,0 +1,7 @@
+PURPOSE:
+  Departmental financial request logs and histories (tools, infra, hiring budgets).
+
+SHOULD CONTAIN:
+  - <dept>-<YYYY>.md, templates/budget-request.md
+
+SEE: ADR-0001 (docs/decisions/ADR-0001-Repository-Structure.md)

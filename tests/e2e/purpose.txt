@@ -1,0 +1,7 @@
+PURPOSE:
+  Playwright journeys that cross category boundaries (e.g., ask Kotha -> routed into Rokto -> donor list).
+
+SHOULD CONTAIN:
+  - *.spec.ts, fixtures/, playwright.config.ts
+
+SEE: ADR-0001 (docs/decisions/ADR-0001-Repository-Structure.md)

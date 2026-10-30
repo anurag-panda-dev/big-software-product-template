@@ -1,0 +1,9 @@
+PURPOSE:
+  Adhikar (অধিকার) — Government & citizen rights vertical. Holds 3 product(s): Scheme Sathi, Adhikar, Daftar.
+  Products inside may share types/fixtures/seeds via _category/ only.
+
+SHOULD CONTAIN:
+  - _category/ — shared within this category
+  - <product-slug>/ — one folder per product
+
+SEE: ADR-0001 (docs/decisions/ADR-0001-Repository-Structure.md)

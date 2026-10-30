@@ -1,0 +1,7 @@
+PURPOSE:
+  Intent -> product routing that returns the user INTO the target product with context preserved (no restart).
+
+SHOULD CONTAIN:
+  - routes-map.ts — intent -> {product, view}, context handoff helpers
+
+SEE: ADR-0001 (docs/decisions/ADR-0001-Repository-Structure.md)

@@ -1,0 +1,7 @@
+PURPOSE:
+  Consumer-driven contract tests: assert apps/categories against platform/api/openapi so the API stack (Express/FastAPI) can change safely.
+
+SHOULD CONTAIN:
+  - *.contract.ts, snapshots/
+
+SEE: ADR-0001 (docs/decisions/ADR-0001-Repository-Structure.md)

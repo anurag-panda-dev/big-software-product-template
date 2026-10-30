@@ -1,0 +1,7 @@
+PURPOSE:
+  System-shaping documents: technical architecture (13), final ecosystem (22), shared layer (23), core idea (00).
+
+SHOULD CONTAIN:
+  - 00-Core-Idea..., 13-Technical-Architecture.md, 22-Final-Ecosystem.md, 23-Shared-Layer.md
+
+SEE: ADR-0001 (docs/decisions/ADR-0001-Repository-Structure.md)

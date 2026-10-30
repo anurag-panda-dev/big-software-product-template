@@ -1,0 +1,8 @@
+PURPOSE:
+  Route/screen declarations for Nagar: which pages exist, their paths, metadata, and where their feature slices mount.
+  Kept separate so apps/web and apps/mobile both consume the same route map.
+
+SHOULD CONTAIN:
+  - index.ts — route table (path, title_bn, title_en, mounted feature)
+
+SEE: ADR-0001 (docs/decisions/ADR-0001-Repository-Structure.md)

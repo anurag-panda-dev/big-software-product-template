@@ -1,0 +1,7 @@
+PURPOSE:
+  Core next-step logic: given user context + ecosystem data, produce ranked actionable steps with sources.
+
+SHOULD CONTAIN:
+  - rules/, ranking/, steps/ (Zod: step = action, requirement, link, deadline)
+
+SEE: ADR-0001 (docs/decisions/ADR-0001-Repository-Structure.md)

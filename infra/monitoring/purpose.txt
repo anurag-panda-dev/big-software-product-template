@@ -1,0 +1,7 @@
+PURPOSE:
+  Monitoring stack config: Sentry init/DSN map, dashboard exports, alert routes.
+
+SHOULD CONTAIN:
+  - sentry/, dashboards/, alert-routes.md
+
+SEE: ADR-0001 (docs/decisions/ADR-0001-Repository-Structure.md)

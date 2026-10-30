@@ -1,0 +1,7 @@
+PURPOSE:
+  Session model: anonymous-first (read + contribute, 30-day) and registered (review, bookmark, verified phone).
+
+SHOULD CONTAIN:
+  - session.ts, permissions.ts, guards/, session-storage (offline-aware)
+
+SEE: ADR-0001 (docs/decisions/ADR-0001-Repository-Structure.md)

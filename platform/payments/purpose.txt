@@ -1,0 +1,7 @@
+PURPOSE:
+  Gateway-agnostic money layer. Products NEVER import gateways — they read kernel/entitlements; this settles money and syncs entitlements.
+
+SHOULD CONTAIN:
+  - gateways/, webhooks/, ledger/, sandbox/
+
+SEE: ADR-0001 (docs/decisions/ADR-0001-Repository-Structure.md)

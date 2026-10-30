@@ -1,0 +1,7 @@
+PURPOSE:
+  Shared Prettier config (print width, Bangla-aware spacing rules).
+
+SHOULD CONTAIN:
+  - .prettierrc.js
+
+SEE: ADR-0001 (docs/decisions/ADR-0001-Repository-Structure.md)

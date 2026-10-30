@@ -1,0 +1,7 @@
+PURPOSE:
+  Generated repo maps (directory tree, package graph) refreshed by tooling for agent consumption.
+
+SHOULD CONTAIN:
+  - tree.md, packages.json — regenerated, do not hand-edit
+
+SEE: ADR-0001 (docs/decisions/ADR-0001-Repository-Structure.md)

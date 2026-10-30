@@ -1,0 +1,7 @@
+PURPOSE:
+  Offline-first layer: service-worker cache strategies (static, content, API, map tiles) + offline action queue with retry sync.
+
+SHOULD CONTAIN:
+  - strategies.ts, queue.ts, sync.ts, sw registration helpers
+
+SEE: ADR-0001 (docs/decisions/ADR-0001-Repository-Structure.md)

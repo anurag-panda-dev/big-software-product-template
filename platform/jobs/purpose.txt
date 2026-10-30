@@ -1,0 +1,7 @@
+PURPOSE:
+  Background workers: dataset syncs, verification sweeps, notification batches, scrapers, moderation fan-out.
+
+SHOULD CONTAIN:
+  - sync/, notifications/, moderation/, schedules/ (cron defs)
+
+SEE: ADR-0001 (docs/decisions/ADR-0001-Repository-Structure.md)
