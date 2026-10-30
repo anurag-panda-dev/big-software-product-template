@@ -13,6 +13,10 @@
   <a href="https://github.com/anurag-panda-dev/big-software-product-template"><img src="https://img.shields.io/github/repo-size/anurag-panda-dev/big-software-product-template?style=flat-square" alt="Repo size" /></a>
 </p>
 
+<p align="center">
+  <img src="docs/assets/repo-hero.png" alt="big-software-product-template repository layout on GitHub" width="100%">
+</p>
+
 ```text
 apps/            deployables — routes, providers, wiring
 categories/      domain verticals ── feature slices {ui, logic, data, api}

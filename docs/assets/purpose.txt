@@ -1,0 +1,8 @@
+PURPOSE:
+  Static media used by repository docs — the README hero screenshot of the repo.
+  Regenerate by screenshotting the GitHub repo page (crop ~1120x620); do not hand-draw.
+
+SHOULD CONTAIN:
+  - repo-hero.png (repo landing page: header, file tree, About panel)
+
+SEE: ../../README.md (hero section)
